@@ -1,0 +1,27 @@
+[
+  {
+    "Code": 1,
+    "ProductName": "Cola",
+    "Price": 5.5
+  },
+  {
+    "Code": 2,
+    "ProductName": "Pepsi",
+    "Price": 4.5
+  },
+  {
+    "Code": 3,
+    "ProductName": "Sugar",
+    "Price": 1.5
+  },
+  {
+    "Code": 4,
+    "ProductName": "Milk",
+    "Price": 6.1500000000000004
+  },
+  {
+    "Code": 5,
+    "ProductName": "Water",
+    "Price": 1
+  }
+]
